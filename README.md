@@ -31,7 +31,7 @@ The dataset is sourced from Kaggle, a reputable platform for datasets and data s
 
 To leverage the full potential of this dataset, consider using the following tools:
 
-- **Power BI:** Utilize the interactive Power BI dashboard [here](<Power BI Weblink>) for intuitive visualizations.
+- **Power BI:** Utilize the interactive Power BI dashboard for intuitive visualizations here with this web link: https://app.powerbi.com/groups/me/reports/d95cb1b2-323f-485a-9e35-7d2f1552e5a2/ReportSection?experience=power-bi
 - **Microsoft Excel:** Access and manipulate the data conveniently using the [free web version of Excel](https://www.office.com/launch/excel?ui=en-US&rs=US&auth=2).
 
 ### Exploratory Analysis and Visualizations
