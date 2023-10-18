@@ -36,8 +36,22 @@ To leverage the full potential of this dataset, consider using the following too
 
 ### Exploratory Analysis and Visualizations
 
-1. **Average Price and Size Analysis:** Dive into the dataset to explore the average price and product size across departments and categories.
-2. **Popular Brands and Products:** Identify top-performing brands and products by analyzing customer preferences and sales trends.
+### Visualizations Used
+**1. Average Order and Revenue Analysis**
+
+**Horizontal Bar Charts:** Crafted two horizontal bar charts, one showcasing average order cost and the other displaying total revenue by department. These visualizations provide a deep dive into departmental performance metrics, revealing trends and opportunities for optimization.
+
+**2. Regional Revenue Distribution**
+
+**Donut Chart:** Developed a visually appealing donut chart depicting total revenue by region. This chart not only captures the overall revenue but also emphasizes the significance of different regions in the sales landscape.
+
+**3. Order Frequency Insights**
+
+**Frequency Chart with Average Order Labels:** Leveraged frequency charts to analyze item prices, with average order labels providing context. This insightful visualization sheds light on customer buying patterns and price sensitivity.
+
+**4. Distribution Patterns Exploration**
+
+**Stacked Horizontal Bar Chart:** Engineered a sophisticated stacked horizontal bar chart, detailing the total percent of orders by department and region. This visualization unveils complex distribution patterns, empowering strategic decision-making.
 
 ### Key Insights
 
@@ -45,7 +59,7 @@ To leverage the full potential of this dataset, consider using the following too
 - **Midwest Dominance:** Midwest emerged as the leading region, contributing significantly to the total revenue (29.65%).
 - **Order Distribution:** Midwest and Southwest regions recorded the highest total orders and average order sizes.
 
-#### Product Categories:
+#### Product Analysis:
 - **Price Variance:** Alcohol products commanded the highest average price, while Pantry items were the most affordable.
 - **Popular Choices:** Dive into the dataset to discover the most popular products within Walmart Grocery categories.
 
